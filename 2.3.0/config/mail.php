@@ -2,14 +2,14 @@
 
 return [
     "SMTP" => [
-        "Host" => "sandbox.smtp.mailtrap.io",
+        "Host" => "",
         "SMTPAuth" => true,
-        "Username" => "3ea74b3ecc8025",
-        "Password" => "5b88bcef4cdab3",
+        "Username" => "",
+        "Password" => "",
         "Port" => 2525,
         "From" => [
-            "email" => "nematollahitrading@gmail.com",
-            "name" => "mohammad nematollhi"
+            "email" => "",
+            "name" => ""
         ]
     ]
 ];
